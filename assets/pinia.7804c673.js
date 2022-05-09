@@ -1,1 +1,1 @@
-import{f as e,z as i}from"./index.522e4dc0.js";var r=e(({app:a})=>{a.use(i())});export{r as default};
+aW1wb3J0e2YgYXMgZSx6IGFzIGl9ZnJvbSIuL2luZGV4LjUyMmU0ZGMwLmpzIjt2YXIgcj1lKCh7YXBwOmF9KT0+e2EudXNlKGkoKSl9KTtleHBvcnR7ciBhcyBkZWZhdWx0fTsK

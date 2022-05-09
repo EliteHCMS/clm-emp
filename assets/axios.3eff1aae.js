@@ -1,1 +1,1 @@
-import{f as e,j as a}from"./index.522e4dc0.js";const i=a.create({baseURL:"https://api.example.com"});var t=e(({app:o})=>{o.config.globalProperties.$axios=a,o.config.globalProperties.$api=i});export{i as api,t as default};
+aW1wb3J0e2YgYXMgZSxqIGFzIGF9ZnJvbSIuL2luZGV4LjUyMmU0ZGMwLmpzIjtjb25zdCBpPWEuY3JlYXRlKHtiYXNlVVJMOiJodHRwczovL2FwaS5leGFtcGxlLmNvbSJ9KTt2YXIgdD1lKCh7YXBwOm99KT0+e28uY29uZmlnLmdsb2JhbFByb3BlcnRpZXMuJGF4aW9zPWEsby5jb25maWcuZ2xvYmFsUHJvcGVydGllcy4kYXBpPWl9KTtleHBvcnR7aSBhcyBhcGksdCBhcyBkZWZhdWx0fTsK
